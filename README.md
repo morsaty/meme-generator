@@ -17,7 +17,7 @@ This project is a meme generator built using React. It allows users to create me
 3. Install the dependencies:
 
    ```
-   git clone [<repository_url>](https://github.com/morsaty/meme-generator.git)
+   git clone https://github.com/morsaty/meme-generator.git
 
 4. Start the development server:
 
